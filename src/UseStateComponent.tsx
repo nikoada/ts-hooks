@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from 'react';
 
 function UseStateComponent() {
     const [arr, setArr] = useState<number[]>([]);
