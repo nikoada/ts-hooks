@@ -10,6 +10,8 @@ function App() {
       <h1>useRef</h1>
       <UseRefComponent />
       <h1>useReducer</h1>
+      <UseRefComponent />
+      <h1>useReducer</h1>
       <UseReducerComponent />
       <h1>useContext</h1>
       <UseContextComponent />
